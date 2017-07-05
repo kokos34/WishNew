@@ -1,0 +1,26 @@
+C:\Users\Kokos\Documents\Visual Studio 2017\Projects\WishNew\WishNew\bin\WishNew.dll.config
+C:\Users\Kokos\Documents\Visual Studio 2017\Projects\WishNew\WishNew\bin\WishNew.dll
+C:\Users\Kokos\Documents\Visual Studio 2017\Projects\WishNew\WishNew\bin\WishNew.pdb
+C:\Users\Kokos\Documents\Visual Studio 2017\Projects\WishNew\WishNew\obj\Debug\WishNew.dll
+C:\Users\Kokos\Documents\Visual Studio 2017\Projects\WishNew\WishNew\obj\Debug\WishNew.pdb
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNew\obj\Debug\WishNew.csprojResolveAssemblyReference.cache
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNew\bin\WishNew.dll.config
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNew\bin\WishNew.dll
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNew\bin\WishNew.pdb
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNew\obj\Debug\WishNew.csprojResolveAssemblyReference.cache
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNew\obj\Debug\WishNew.dll
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNew\obj\Debug\WishNew.pdb
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNew\bin\EntityFramework.dll
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNew\bin\EntityFramework.SqlServer.dll
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNew\bin\EntityFramework.xml
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNew\bin\EntityFramework.SqlServer.xml
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNew\bin\WishNew.dll.config
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNew\bin\WishNew.dll
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNew\bin\WishNew.pdb
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNew\bin\EntityFramework.dll
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNew\bin\EntityFramework.SqlServer.dll
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNew\bin\EntityFramework.xml
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNew\bin\EntityFramework.SqlServer.xml
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNew\obj\Debug\WishNew.dll
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNew\obj\Debug\WishNew.pdb
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNew\obj\Debug\WishNew.csprojResolveAssemblyReference.cache

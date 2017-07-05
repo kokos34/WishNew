@@ -1,0 +1,25 @@
+﻿<Window x:Class="WishNewApp.AddNewItem"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WishNewApp"
+        mc:Ignorable="d"
+        Title="AddNewItem" Height="320.168" Width="300">
+    <Grid Margin="0,0,0,-30">
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\\Users\\epiokok\\Desktop\\sculpture1.jpg"/>
+        </Grid.Background>
+        <Label Content="Name:" HorizontalAlignment="Left" Margin="189,64,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" >
+        </Label>
+        <TextBox x:Name="nameBox" HorizontalAlignment="Left" Height="23" Margin="146,95,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Quantity:" HorizontalAlignment="Left" Margin="175,131,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold"/>
+        <TextBox x:Name="quantityBox" HorizontalAlignment="Left" Height="23" Margin="146,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="productNoBox" HorizontalAlignment="Left" Height="23" Margin="146,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Product number:" HorizontalAlignment="Left" Margin="155,6,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold"/>
+        <Label Content="Made of:" HorizontalAlignment="Left" Margin="176,203,0,0" VerticalAlignment="Top" Foreground="White" FontWeight="Bold"/>
+        <TextBox x:Name="madeOfBox" HorizontalAlignment="Left" Height="23" Margin="146,234,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Add new product" HorizontalAlignment="Left" Margin="92,278,0,0" VerticalAlignment="Top" Width="110" Click="Button_Click"/>
+
+    </Grid>
+</Window>

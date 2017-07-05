@@ -1,0 +1,44 @@
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNewApp\bin\Debug\WishNewApp.exe.config
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNewApp\bin\Debug\WishNewApp.exe
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNewApp\bin\Debug\WishNewApp.pdb
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNewApp\obj\Debug\WishNewApp.csprojResolveAssemblyReference.cache
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNewApp\obj\Debug\MainWindow.g.cs
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNewApp\obj\Debug\App.g.cs
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNewApp\obj\Debug\WishNewApp_MarkupCompile.cache
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNewApp\obj\Debug\WishNewApp_MarkupCompile.lref
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNewApp\obj\Debug\MainWindow.baml
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNewApp\obj\Debug\WishNewApp.g.resources
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNewApp\obj\Debug\WishNewApp.Properties.Resources.resources
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNewApp\obj\Debug\WishNewApp.csproj.GenerateResource.Cache
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNewApp\obj\Debug\WishNewApp.exe
+C:\Users\Kokos\documents\visual studio 2017\Projects\WishNew\WishNewApp\obj\Debug\WishNewApp.pdb
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNewApp\bin\Debug\WishNewApp.exe.config
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNewApp\bin\Debug\WishNewApp.exe
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNewApp\bin\Debug\WishNewApp.pdb
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp.csprojResolveAssemblyReference.cache
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNewApp\obj\Debug\MainWindow.g.cs
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNewApp\obj\Debug\App.g.cs
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp_MarkupCompile.cache
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp_MarkupCompile.lref
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNewApp\obj\Debug\MainWindow.baml
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp.g.resources
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp.Properties.Resources.resources
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp.csproj.GenerateResource.Cache
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp.exe
+C:\Users\MartaKrol\Downloads\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp.pdb
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\bin\Debug\WishNewApp.exe.config
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\bin\Debug\WishNewApp.exe
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\bin\Debug\WishNewApp.pdb
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\obj\Debug\MainWindow.g.cs
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\obj\Debug\App.g.cs
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp_MarkupCompile.cache
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp_MarkupCompile.lref
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\obj\Debug\MainWindow.baml
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp.g.resources
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp.Properties.Resources.resources
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp.csproj.GenerateResource.Cache
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp.exe
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp.pdb
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\obj\Debug\AddNewItem.g.cs
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\obj\Debug\AddNewItem.baml
+C:\Users\epiokok\Downloads\WishNew_ver2\WishNew\WishNew\WishNewApp\obj\Debug\WishNewApp.csprojResolveAssemblyReference.cache
